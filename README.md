@@ -1,7 +1,7 @@
 # Credit Card Default Prediction
 **AlmaBetter Verfied Project**
 
-![image] https://images.app.goo.gl/Jae7GtBqRRdBTesv6
+https://images.app.goo.gl/Jae7GtBqRRdBTesv6
 
 **Supervised machine learning (Classification model)**
 
