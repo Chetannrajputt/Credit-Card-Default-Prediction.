@@ -1,7 +1,7 @@
 # Credit Card Default Prediction
 **AlmaBetter Verfied Project**
 
-![image] https://mpokket.in/avoid-common-credit-card-mistakes/
+![image] https://user-images.githubusercontent.com/mpokket.in/avoid-common-credit-card-mistakes/
 
 **Supervised machine learning (Classification model)**
 
