@@ -1,7 +1,7 @@
 # Credit Card Default Prediction
 **AlmaBetter Verfied Project**
 
-https://images.app.goo.gl/Jae7GtBqRRdBTesv6
+![image](https://mpokket.in/wp-content/uploads/2021/06/Untitled-6.png)
 
 **Supervised machine learning (Classification model)**
 
@@ -123,7 +123,7 @@ The best fit algorithm for predicting limit balance is bagging approach. The bes
 By applying XGBoost Classifier with recall 60.60%, we can predict with 81.60% accuracy whether a customer is likely to default next month.
 
 ## 📜 **Credits**
-Anas | Chetan Rajput | Sarthak Rastogi
+Chetan Rajput |Anas| Sarthak Rastogi
 
 ## 📚 **References**
 Using SMOTE - https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
